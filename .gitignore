@@ -1,0 +1,11 @@
+#ignore all .csv files
+*.csv
+
+#ignore all .txt files
+*.txt
+
+#ignore all .tsv files
+*.tsv
+
+#ignore all notebook checkpoints folder
+*.ipynb_checkpoints
